@@ -1,0 +1,6 @@
+.venv
+static
+__pycache__
+migrations
+reddit_credentials.json
+data.sqlite
